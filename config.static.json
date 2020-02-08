@@ -1,0 +1,9 @@
+{
+    "staticValue" : "hax",
+    "superImportantThingThatIsStatic": "mmmmmmm",
+    "nested": {
+        "path": {
+            "config": 123
+        }
+    }
+}
